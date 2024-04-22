@@ -1,0 +1,44 @@
+.parentDiv {
+  display: flex;
+  align-items: flex-end;
+  background-image: url(./assets/sea-edge-79ab30e2.png);
+  background-repeat: no-repeat;
+
+  background-size: 150%;
+  border: 10px solid rgb(237, 41, 41);
+  justify-content: center;
+ }
+
+.innerdiv {
+  width: 20px;
+  margin: 2px;
+}
+.startbtn:hover{
+    display: flex;
+  border: 2px solid;
+  background-color: rgb(48, 106, 221);
+  margin:12px;
+  position:relative;
+  left: 600px;
+  font-size: 40px;
+  color: rgb(175, 13, 13);
+  cursor: pointer;
+  border-radius: 10px;
+  
+}
+.startbtn
+    {
+  display: flex;
+  border: 2px solid;
+  background-color: rgb(48, 106, 221);
+  margin:12px;
+  position:relative;
+  left: 600px;
+  font-size: 40px;
+  color: aliceblue;
+  cursor: pointer;
+  border-radius: 10px;
+}
+body{
+    background-color: rgb(67, 7, 65);
+}
